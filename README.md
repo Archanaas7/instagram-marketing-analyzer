@@ -67,3 +67,16 @@ instagram-marketing-analyzer/
 ├── instagram_marketing_analyzer.py
 ├── marketing_data.csv
 └── README.md
+## Project Visualizations
+
+### Likes per Instagram Post
+
+![Likes Chart](likes_chart.png)
+
+### Instagram Post Reach
+
+![Reach Chart](reach_chart.png)
+
+### Engagement Rate by Post
+
+![Engagement Rate Chart](engagement_rate_chart.png)
